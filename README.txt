@@ -7,7 +7,8 @@
 	python mainx16.py
 	python mainx32.py
 	
-	*NOTE: (1) Since we use FROZEN model (.pd) in the tensorflow lib (python), the placeholder has a fixed shape for each model, therefore, we have to use different .pd file for each iteration. But the models for Cat 2 and Cat 3 are the same;
+	*NOTE: (1) Since we use FROZEN model (.pd) in the tensorflow lib (python), the placeholder has a fixed shape 
+	for each model, therefore, we have to use different .pd file for each iteration;
 	(2) The shapes of the placeholders are fixed at:
 	[None, 25, 1280, 1] and [None, 73, 1280, 1] for Cat1
 	[None, 13, 1280, 1] and [None, 49, 1280, 1] for Cat2
