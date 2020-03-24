@@ -12,7 +12,7 @@
 	[None, 25, 1280, 1] and [None, 73, 1280, 1] for Cat1
 	[None, 13, 1280, 1] and [None, 49, 1280, 1] for Cat2
 	[None,  7, 1280, 1] ,   [None, 25, 1280, 1] and [None, 97, 1280, 1] for Cat3,
-	If the angular resolution is not 193 and the image width is not 1280, you should contact me to generate new .pd models.
+	If the angular resolution is not 193 and the image width is not 1280, please contact me.
 	(3) You can set the parameter "EVALUATION" to "0", if you want evaluation the result on your own code.
 
 2. Results for validation
